@@ -20,7 +20,7 @@
 
 ### Resume
 
-<a href="https://user-images.githubusercontent.com/40921926/229034466-22ee378b-7f66-4766-9f76-02dbefca4ba1.png">
+[<a href="https://user-images.githubusercontent.com/40921926/229034466-22ee378b-7f66-4766-9f76-02dbefca4ba1.png">
   [<img src="https://cdn-icons-png.flaticon.com/128/9772/9772412.png" alt="Project Name 1" width="30px" height="30px">
 </a>][![Resume]()
 🌐 [Live Demo](https://ngp55.github.io/Resume/) &nbsp; • &nbsp; 
@@ -30,9 +30,9 @@
 ### Move the Ball
 
 
-<a href="https://user-images.githubusercontent.com/40921926/229053573-19bd6e0d-1edf-45fc-87d5-afbda9e81714.png">
+[<a href="https://user-images.githubusercontent.com/40921926/229053573-19bd6e0d-1edf-45fc-87d5-afbda9e81714.png">
   <img src="https://cdn-icons-png.flaticon.com/128/1165/1165249.png" alt="Project Name 1" width="30px" height="30px">
-</a> [[![Move the Ball]
+</a> [![Move the Ball]
 🌐 [Live Demo](https://ngp55.github.io/MoveTheBall/) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/MoveTheBall) &nbsp; • &nbsp; 
 🎥 [Video Demo]()
@@ -41,7 +41,7 @@
 ### SuperHeroHunter
 
 
-<a href="https://user-images.githubusercontent.com/40921926/235341877-c170a874-c5e4-4d93-b802-35091bbc201f.png">
+[<a href="https://user-images.githubusercontent.com/40921926/235341877-c170a874-c5e4-4d93-b802-35091bbc201f.png">
   <img src="https://cdn-icons-png.flaticon.com/128/1538/1538426.png" alt="Project Name 1" width="30px" height="30px">
 </a> [![SuperHeroHunter]
 🌐 [Live Demo](https://ngp55.github.io/SuperHeroHunter/) &nbsp; • &nbsp; 
@@ -51,7 +51,7 @@
 ### HabitTracker
 
 
-<a href="https://user-images.githubusercontent.com/40921926/252127002-36f339b9-0bb6-4752-a91a-8dfce85fb401.png">
+[<a href="https://user-images.githubusercontent.com/40921926/252127002-36f339b9-0bb6-4752-a91a-8dfce85fb401.png">
   <img src="https://cdn-icons-png.flaticon.com/128/3588/3588658.png" alt="Project Name 1" width="30px" height="30px">
 </a> [![HabitTracker]
 🌐 [Live Demo](url) &nbsp; • &nbsp; 
@@ -61,7 +61,7 @@
 ### EmployeeReviewSystem
 
 
-<a href="https://user-images.githubusercontent.com/40921926/253287323-3b10300b-f5b7-490c-b4c2-65a922698bd3.png">
+[<a href="https://user-images.githubusercontent.com/40921926/253287323-3b10300b-f5b7-490c-b4c2-65a922698bd3.png">
   <img src="https://cdn-icons-png.flaticon.com/128/11516/11516546.png" alt="Project Name 1" width="30px" height="30px">
 </a> [![EmployeeReviewSystem]
 🌐 [Live Demo](url) &nbsp; • &nbsp; 
@@ -71,7 +71,7 @@
 ### PollingApi
 
 
-<a href="https://user-images.githubusercontent.com/40921926/252292195-313f3444-666a-453d-9c19-850035c4d957.png">
+[<a href="https://user-images.githubusercontent.com/40921926/252292195-313f3444-666a-453d-9c19-850035c4d957.png">
   <img src="https://cdn-icons-png.flaticon.com/128/2473/2473139.png" alt="Project Name 1" width="30px" height="30px">
 </a> [![PollingApi]
 🌐 [Live Demo](url) &nbsp; • &nbsp; 
@@ -81,7 +81,7 @@
 ### Codial
 
 
-<a href="https://cdn-icons-png.flaticon.com/128/9540/9540673.png">
+[<a href="https://cdn-icons-png.flaticon.com/128/9540/9540673.png">
   <img src="https://cdn-icons-png.flaticon.com/128/9540/9540673.png" alt="Project Name 1" width="30px" height="30px">
 </a> [![Codial] (url)
 🌐 [Live Demo](url) &nbsp; • &nbsp; 
