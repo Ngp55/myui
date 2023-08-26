@@ -21,7 +21,13 @@
 ### Resume
 
 
-[![Project Name 1](<a href="https://www.yourprojectdemo.com">
+<a href="url">
+  <img src="https://cdn-icons-png.flaticon.com/128/9540/9540673.png" alt="Project Name 1" width="30px" height="30px">
+</a>
+
+
+
+[![Project Name 1](<a href="url">
   <img src="https://cdn-icons-png.flaticon.com/128/9772/9772412.png" alt="Project Name 1" width="30px" height="30px">
 </a>)](https://user-images.githubusercontent.com/40921926/229034466-22ee378b-7f66-4766-9f76-02dbefca4ba1.png)
 🌐 [Live Demo](https://ngp55.github.io/Resume/) &nbsp; • &nbsp; 
@@ -31,7 +37,9 @@
 ### Move the Ball
 
 
-[![Project Name 2](https://cdn-icons-png.flaticon.com/128/1165/1165249.png)](https://user-images.githubusercontent.com/40921926/229053573-19bd6e0d-1edf-45fc-87d5-afbda9e81714.png)
+[![Move the Ball](<a href="url">
+  <img src="https://cdn-icons-png.flaticon.com/128/1165/1165249.png" alt="Project Name 1" width="30px" height="30px">
+</a>)](https://user-images.githubusercontent.com/40921926/229053573-19bd6e0d-1edf-45fc-87d5-afbda9e81714.png)
 🌐 [Live Demo](https://ngp55.github.io/MoveTheBall/) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/MoveTheBall) &nbsp; • &nbsp; 
 🎥 [Video Demo]()
@@ -40,7 +48,9 @@
 ### SuperHeroHunter
 
 
-[![SuperHeroHunter](https://cdn-icons-png.flaticon.com/128/1538/1538426.png)](https://user-images.githubusercontent.com/40921926/235341877-c170a874-c5e4-4d93-b802-35091bbc201f.png)
+[![SuperHeroHunter](<a href="url">
+  <img src="https://cdn-icons-png.flaticon.com/128/1538/1538426.png" alt="Project Name 1" width="30px" height="30px">
+</a>)](https://user-images.githubusercontent.com/40921926/235341877-c170a874-c5e4-4d93-b802-35091bbc201f.png)
 🌐 [Live Demo](https://ngp55.github.io/SuperHeroHunter/) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/SuperHeroHunter) &nbsp; • &nbsp; 
 🎥 [Video Demo](https://www.youtube.com/watch?v=yourvideoid)
@@ -48,7 +58,9 @@
 ### HabitTracker
 
 
-[![HabitTracker](https://cdn-icons-png.flaticon.com/128/3588/3588658.png)](https://user-images.githubusercontent.com/40921926/252127002-36f339b9-0bb6-4752-a91a-8dfce85fb401.png)
+[![HabitTracker](<a href="url">
+  <img src="https://cdn-icons-png.flaticon.com/128/3588/3588658.png" alt="Project Name 1" width="30px" height="30px">
+</a>)](https://user-images.githubusercontent.com/40921926/252127002-36f339b9-0bb6-4752-a91a-8dfce85fb401.png)
 🌐 [Live Demo](url) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/HabitTracker) &nbsp; • &nbsp; 
 🎥 [Video Demo](https://vimeo.com/843487244?share=copy)
@@ -56,7 +68,9 @@
 ### EmployeeReviewSystem
 
 
-[![EmployeeReviewSystem](https://cdn-icons-png.flaticon.com/128/11516/11516546.png)](https://user-images.githubusercontent.com/40921926/253287323-3b10300b-f5b7-490c-b4c2-65a922698bd3.png)
+[![EmployeeReviewSystem](<a href="url">
+  <img src="https://cdn-icons-png.flaticon.com/128/11516/11516546.png" alt="Project Name 1" width="30px" height="30px">
+</a>)](https://user-images.githubusercontent.com/40921926/253287323-3b10300b-f5b7-490c-b4c2-65a922698bd3.png)
 🌐 [Live Demo](url) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/EmpReviewSystem) &nbsp; • &nbsp; 
 🎥 [Video Demo](https://vimeo.com/844926794?share=copy)
@@ -64,7 +78,9 @@
 ### PollingApi
 
 
-[![PollingApi](https://cdn-icons-png.flaticon.com/128/2473/2473139.png)](https://user-images.githubusercontent.com/40921926/252292195-313f3444-666a-453d-9c19-850035c4d957.png)
+[![PollingApi](<a href="url">
+  <img src="https://cdn-icons-png.flaticon.com/128/2473/2473139.png" alt="Project Name 1" width="30px" height="30px">
+</a>)](https://user-images.githubusercontent.com/40921926/252292195-313f3444-666a-453d-9c19-850035c4d957.png)
 🌐 [Live Demo](url) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/pollingapi) &nbsp; • &nbsp; 
 🎥 [Video Demo](https://vimeo.com/843665355?share=copy)
@@ -72,7 +88,9 @@
 ### Codial
 
 
-[![Codial](https://cdn-icons-png.flaticon.com/128/9540/9540673.png)](url)
+[![Codial](<a href="url">
+  <img src="https://cdn-icons-png.flaticon.com/128/9540/9540673.png" alt="Project Name 1" width="30px" height="30px">
+</a>)](url)
 🌐 [Live Demo](url) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/Codeial) &nbsp; • &nbsp; 
 🎥 [Video Demo](url)
