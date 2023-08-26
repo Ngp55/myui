@@ -15,6 +15,68 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>&nbsp&nbsp&nbsp&nbsp
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+<p>
+  ## 🚀 Featured Projects
+
+### Resume
+
+
+[![Project Name 1](project1-thumbnail.png)](url)
+🌐 [Live Demo](https://ngp55.github.io/Resume/) &nbsp; • &nbsp; 
+📁 [GitHub Repo](https://github.com/Ngp55/Resume) &nbsp; • &nbsp; 
+🎥 [Video Demo](https://user-images.githubusercontent.com/40921926/262512429-59c079c0-50e8-46e1-9dab-a57f30d08964.webm)
+
+### Move the Ball
+
+
+[![Project Name 2](project2-thumbnail.png)](url)
+🌐 [Live Demo](https://ngp55.github.io/MoveTheBall/) &nbsp; • &nbsp; 
+📁 [GitHub Repo](https://github.com/Ngp55/MoveTheBall) &nbsp; • &nbsp; 
+🎥 [Video Demo]()
+
+
+### SuperHeroHunter
+
+
+[![SuperHeroHunter](project1-thumbnail.png)](url)
+🌐 [Live Demo](https://ngp55.github.io/SuperHeroHunter/) &nbsp; • &nbsp; 
+📁 [GitHub Repo](https://github.com/Ngp55/SuperHeroHunter) &nbsp; • &nbsp; 
+🎥 [Video Demo](https://www.youtube.com/watch?v=yourvideoid)
+
+### HabitTracker
+
+
+[![HabitTracker](project2-thumbnail.png)](url)
+🌐 [Live Demo](url) &nbsp; • &nbsp; 
+📁 [GitHub Repo](https://github.com/Ngp55/HabitTracker) &nbsp; • &nbsp; 
+🎥 [Video Demo](https://vimeo.com/843487244?share=copy)
+
+### EmployeeReviewSystem
+
+
+[![EmployeeReviewSystem](project1-thumbnail.png)](url)
+🌐 [Live Demo](url) &nbsp; • &nbsp; 
+📁 [GitHub Repo](https://github.com/Ngp55/EmpReviewSystem) &nbsp; • &nbsp; 
+🎥 [Video Demo](https://vimeo.com/844926794?share=copy)
+
+### PollingApi
+
+
+[![PollingApi](project2-thumbnail.png)](url)
+🌐 [Live Demo](url) &nbsp; • &nbsp; 
+📁 [GitHub Repo](https://github.com/Ngp55/pollingapi) &nbsp; • &nbsp; 
+🎥 [Video Demo](https://vimeo.com/843665355?share=copy)
+
+### Codial
+
+
+[![Codial](project1-thumbnail.png)](url)
+🌐 [Live Demo](url) &nbsp; • &nbsp; 
+📁 [GitHub Repo](https://github.com/Ngp55/Codeial) &nbsp; • &nbsp; 
+🎥 [Video Demo](url)
+
+
+</p>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngp55&layout=compact&theme=" alt=ngp55 />
