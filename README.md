@@ -21,7 +21,7 @@
 ### Resume
 
 
-[![Project Name 1](project1-thumbnail.png)](url)
+[![Project Name 1](project1-thumbnail.png)](https://user-images.githubusercontent.com/40921926/229034466-22ee378b-7f66-4766-9f76-02dbefca4ba1.png)
 🌐 [Live Demo](https://ngp55.github.io/Resume/) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/Resume) &nbsp; • &nbsp; 
 🎥 [Video Demo](https://user-images.githubusercontent.com/40921926/262512429-59c079c0-50e8-46e1-9dab-a57f30d08964.webm)
