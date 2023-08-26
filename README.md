@@ -30,9 +30,9 @@
 ### Move the Ball
 
 
-<a href="https://user-images.githubusercontent.com/40921926/229053573-19bd6e0d-1edf-45fc-87d5-afbda9e81714.png">
+[<a href="https://user-images.githubusercontent.com/40921926/229053573-19bd6e0d-1edf-45fc-87d5-afbda9e81714.png">
   <img src="https://cdn-icons-png.flaticon.com/128/1165/1165249.png" alt="Project Name 1" width="30px" height="30px">
-</a> [![Move the Ball]
+</a> [![Move the Ball]]
 🌐 [Live Demo](https://ngp55.github.io/MoveTheBall/) &nbsp; • &nbsp; 
 📁 [GitHub Repo](https://github.com/Ngp55/MoveTheBall) &nbsp; • &nbsp; 
 🎥 [Video Demo]()
